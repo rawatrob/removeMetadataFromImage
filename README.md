@@ -1,6 +1,7 @@
 
-<h1>Remove Geolocation from Imaage</h1>
+<h1>Remove Geolocation from Image</h1>
 
+<h3>Why we use this Code ?</h3>
 <p>When an image is taken using a smartphone or camera certain metadata fields are often attached to it. These fields could include the model of the camera, the time it was taken, whether the flash was used, the shutter speed, focal length, light value and even the location. In Inturn, while uploading the image as a profile picture, the exif data is not stripped from images. The exif data in images contains sensitive data like Geoloacation, latitude, longitude, etc. Also it contains the camera information and other details. </p>
 
 <h3>Tools Used: exiftool, http://exif.regex.info/exif.cgi Steps to</h3>
