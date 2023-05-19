@@ -13,7 +13,7 @@ Steps TO reproduce:
 
 2)Then down load sample image which contain gps information
 
-(you can dw from here:  https://github.com/ianare/exif-samples/tree/master/jpg/gps)
+(you can downlaod  from here:  https://github.com/ianare/exif-samples/tree/master/jpg/gps)
 
 3)Upload that image and try to get the url of that image
 
@@ -21,4 +21,4 @@ Steps TO reproduce:
 
 https://jimpl.com/
 
-4)just upload the uploaded image url and and click on view image data
+4)just upload the uploaded image url and and click on view image datals
